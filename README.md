@@ -1,4 +1,7 @@
+# git branch -M main
+# git remote add origin https://github.com/YacineELHAFIDY/React_App.git
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
